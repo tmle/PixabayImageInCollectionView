@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-@interface ImageInfo : NSObject
+@interface ImageInfo : NSObject 
 
 @property (strong, nonatomic) NSNumber *imageHeight;
 @property (strong, nonatomic) NSNumber *likes;
